@@ -10,5 +10,5 @@ Interested to learn about the approach:
 ![test_score](https://github.com/asingleneuron/hackathons_solution/blob/master/novartis_datascience_challenge_final_solution/test_score.PNG)
 
 
-# [YOUTUBE VIDEO]()
+# [YOUTUBE VIDEO](https://youtu.be/c_KIzmqsWGA)
 
