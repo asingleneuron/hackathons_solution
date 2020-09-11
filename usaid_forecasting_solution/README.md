@@ -1,6 +1,6 @@
 # USAID FORECASTING CHALLENGE
 
-Converted layman timeseries problem to regression problem. After formulazing the regression problem applied the following two models. 
+Converted the layman timeseries problem to regression problem. After formulazing the regression problem applied the following two models. 
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -88,5 +88,8 @@ Following forecasted plot represents the following things:
 ![CNN-LSTM Forecasting Plot](https://github.com/asingleneuron/hackathons_solution/blob/master/usaid_forecasting_solution/usaid_validation_plots/cnn_lstm_forecasted_ts_plot.png)
 
 
+
+
+I will update more on feature engineering and model creation after the results. 
 
 
