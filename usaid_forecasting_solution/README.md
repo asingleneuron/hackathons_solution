@@ -12,6 +12,9 @@ Converted layman timeseries problem to regression problem. After formulazing the
 
 > MASE score has been calculated for each time-series after grouping data via product_code and site_code. After that calculating the average MASE. 
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 ## MODEL_1 : LGBM
@@ -45,6 +48,9 @@ Following forecasted plot represents the following things:
 
 ![LGB Forecasting Plot](https://github.com/asingleneuron/hackathons_solution/blob/master/usaid_forecasting_solution/usaid_validation_plots/lgb_forecasted_ts_plot.png)
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 ## MODEL_2 : CNN-LSTM
