@@ -17,7 +17,7 @@
 
 <br>
 
-# Leaderboard Standing 
+# Leaderboard Standing 🏆
 
 | Rank | Public | Private |
 | :---        |    :----:   |          ---: |
