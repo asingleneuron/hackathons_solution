@@ -18,6 +18,13 @@
 <br>
 
 # Leaderboard Standing 
+
 | Rank | Public | Private |
 | :---        |    :----:   |          ---: |
 |  | 0.6453553174 |  0.6495212601 |
+
+
+<br>
+
+# Know more about this hackathon:
+   <a href="https://datahack.analyticsvidhya.com/contest/ltfs-data-science-finhack-3/#About"> LTFS FINHACK3 </a>
