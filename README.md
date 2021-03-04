@@ -1,2 +1,2 @@
 # hackathons_solution
-This repo contains the solution code for all of the machine learning hackathons i am participating
+Find the solution of machine learning competitions I am participating.
